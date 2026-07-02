@@ -1,0 +1,1 @@
+        for (int i = 0; vrem.word1[i] != '\0'; i++) 

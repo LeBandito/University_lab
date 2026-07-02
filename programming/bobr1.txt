@@ -1,0 +1,11 @@
+and file opening in a single statement. Tlsadjf sd. Ukndsf asldjfln.
+ ofstream.
+After opening the file in recording mode, an empty file will be created in which.
+information can be recorded. tlkhjr gf;vcbm. If you neclose()ed to open a file to add.
+something to it, then use the.
+Closing the fil.
+File stream classes have a close() function that resets the contents of the stream and closes the associated file.
+In addition, the stream destructor automatically closes the file when the stream object is destroyed.
+If there is an error closing the file, the failbit flag is set.
+Reading characters and strings.
+For reading single characters as well as strings.

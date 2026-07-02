@@ -1,0 +1,11 @@
+and file opening in a single statement. Ukndsf asldjfln.
+ ofstream.
+After opening the file in recording mode, an empty file will be created in which.
+information can be recorded. If you neclose()ed to open a file to add.
+
+
+
+In addition, the stream destructor automatically closes the file when the stream object is destroyed.
+If there is an error closing the file, the failbit flag is set.
+
+
